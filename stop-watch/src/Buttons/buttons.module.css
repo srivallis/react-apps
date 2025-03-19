@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.buttons {
+  padding: 10px 25px;
+  background-color: #656a6a;
+  color: #fff;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+
+.start {
+  background-color: #10bb10;
+}
+
+.reset {
+  background-color: red
+}
